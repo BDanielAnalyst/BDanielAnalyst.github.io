@@ -1,2 +1,2 @@
-# DanielBAnalyst.github.io
+# BDanielAnalyst.github.io
 Portfolio website
